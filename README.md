@@ -168,14 +168,13 @@ Refer to the **`architecture_slide.pdf`** for a visual representation of the wor
 
 ## **Demo Video**
 
-Watch the demo video (`demo_video.mp4`) for a step-by-step walkthrough of:
+Watch the demo video below for a step-by-step walkthrough of:
 
 1. Problem statement and approach.
 2. Code structure and functionality.
 3. Example queries and recommendations.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3LPhSc2ukEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ---
 
