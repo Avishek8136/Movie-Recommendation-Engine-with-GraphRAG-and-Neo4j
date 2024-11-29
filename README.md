@@ -174,7 +174,16 @@ Watch the demo video below for a step-by-step walkthrough of:
 2. Code structure and functionality.
 3. Example queries and recommendations.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3LPhSc2ukEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## **Demo Video**
+
+Watch the demo video below for a step-by-step walkthrough of:
+
+1. Problem statement and approach.
+2. Code structure and functionality.
+3. Example queries and recommendations.
+
+[![Demo Video - Working Model](https://img.youtube.com/vi/3LPhSc2ukEk/0.jpg)](https://www.youtube.com/watch?v=3LPhSc2ukEk)
+
 
 ---
 
